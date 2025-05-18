@@ -1,6 +1,6 @@
-Book Key Element Website
+Book Information Website
 
-A visually engaging and interactive Book Key Element Website built using HTML, CSS, and JavaScript. This project highlights key elements or features of a book, making it ideal for online book showcases, educational content, or personal reading portfolios.
+A visually engaging and interactive Book Information Website built using HTML, CSS, and JavaScript. This project highlights key elements or features of a book, making it ideal for online book showcases, educational content, or personal reading portfolios.
 
 ⸻
 
